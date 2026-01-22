@@ -29,8 +29,4 @@ I enjoy building maintainable backend systems and clean, thoughtful user interfa
 
 ## Get in Touch
 
-- 💼 LinkedIn: [fatimasanchezs](https://www.linkedin.com/in/fatimasanchezs/)
-
----
-
-Thanks for stopping by 👋
+- LinkedIn: [fatimasanchezs](https://www.linkedin.com/in/fatimasanchezs/)
